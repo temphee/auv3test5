@@ -103,7 +103,7 @@
 				TargetAttributes = {
 					C5C5BAC11F2F93D7003AE939 = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = 52F8P58G32;
+						DevelopmentTeam = K8P7H2F3JG;
 						LastSwiftMigration = 0830;
 						ProvisioningStyle = Automatic;
 					};
@@ -114,6 +114,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -271,14 +272,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = 52F8P58G32;
+				DEVELOPMENT_TEAM = K8P7H2F3JG;
 				INFOPLIST_FILE = auv3test5/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.sample.auv3test5;
+				PRODUCT_BUNDLE_IDENTIFIER = com.temphee;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "auv3test5/auv3test5-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -287,13 +288,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				DEVELOPMENT_TEAM = 52F8P58G32;
+				DEVELOPMENT_TEAM = K8P7H2F3JG;
 				INFOPLIST_FILE = auv3test5/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.sample.auv3test5;
+				PRODUCT_BUNDLE_IDENTIFIER = com.temphee;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "auv3test5/auv3test5-Bridging-Header.h";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};
